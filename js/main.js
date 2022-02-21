@@ -52,14 +52,3 @@
   $(document).on("click", "#menu", function() {
       t1.reversed(!t1.reversed());
   });
-
-
-  // Scrolling Effect
-
-  // $(window).on("scroll", function() {
-  //     if ($(window).scrollTop()) {
-  //         $('nav').addClass('black');
-  //     } else {
-  //         $('nav').removeClass('black');
-  //     }
-  // })
